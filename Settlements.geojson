@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "Settlements",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "Settlement": "Runji" }, "geometry": { "type": "Point", "coordinates": [ 7.456387378861932, 10.983371968866294 ] } },
+{ "type": "Feature", "properties": { "id": 2, "Settlement": "Kerawa" }, "geometry": { "type": "Point", "coordinates": [ 7.418657090831428, 10.966602951963845 ] } },
+{ "type": "Feature", "properties": { "id": 3, "Settlement": "Rifata" }, "geometry": { "type": "Point", "coordinates": [ 7.330095720315386, 10.959790538847228 ] } },
+{ "type": "Feature", "properties": { "id": 4, "Settlement": "Jaware" }, "geometry": { "type": "Point", "coordinates": [ 7.389311311252149, 10.932540886380755 ] } },
+{ "type": "Feature", "properties": { "id": 5, "Settlement": "Anguwar Daudu" }, "geometry": { "type": "Point", "coordinates": [ 7.482064935993804, 10.914199774143702 ] } },
+{ "type": "Feature", "properties": { "id": 6, "Settlement": "Anguwar Sauro" }, "geometry": { "type": "Point", "coordinates": [ 7.40503226459819, 10.898478820797653 ] } },
+{ "type": "Feature", "properties": { "id": 7, "Settlement": "Kafin Sani" }, "geometry": { "type": "Point", "coordinates": [ 7.470012205095171, 10.886950121677224 ] } },
+{ "type": "Feature", "properties": { "id": 8, "Settlement": "Rikau" }, "geometry": { "type": "Point", "coordinates": [ 7.264591748040204, 10.894286566572047 ] } },
+{ "type": "Feature", "properties": { "id": 9, "Settlement": "Yalwa" }, "geometry": { "type": "Point", "coordinates": [ 7.316470894082147, 10.878041581447798 ] } },
+{ "type": "Feature", "properties": { "id": 10, "Settlement": "Babori" }, "geometry": { "type": "Point", "coordinates": [ 7.384070993470132, 10.852364024315929 ] } },
+{ "type": "Feature", "properties": { "id": 11, "Settlement": "Dallatu" }, "geometry": { "type": "Point", "coordinates": [ 7.465295919091356, 10.851315960759528 ] } },
+{ "type": "Feature", "properties": { "id": 12, "Settlement": "Kafin Bangoji" }, "geometry": { "type": "Point", "coordinates": [ 7.417609027275026, 10.815157768063628 ] } },
+{ "type": "Feature", "properties": { "id": 13, "Settlement": "Anguwar Kaj njiri" }, "geometry": { "type": "Point", "coordinates": [ 7.47315639576438, 10.803629068943195 ] } },
+{ "type": "Feature", "properties": { "id": 14, "Settlement": "Anguwar Sarkin Pawa" }, "geometry": { "type": "Point", "coordinates": [ 7.438046266624882, 10.758038304239673 ] } },
+{ "type": "Feature", "properties": { "id": 15, "Settlement": "Baka" }, "geometry": { "type": "Point", "coordinates": [ 7.377258580353514, 10.792624401600964 ] } },
+{ "type": "Feature", "properties": { "id": 16, "Settlement": "Pauta" }, "geometry": { "type": "Point", "coordinates": [ 7.332715879206392, 10.766946844469095 ] } },
+{ "type": "Feature", "properties": { "id": 17, "Settlement": "Pagauchi" }, "geometry": { "type": "Point", "coordinates": [ 7.358393436338262, 10.814633736285426 ] } },
+{ "type": "Feature", "properties": { "id": 18, "Settlement": "Sabon Birni" }, "geometry": { "type": "Point", "coordinates": [ 7.298653813623297, 10.813585672729022 ] } },
+{ "type": "Feature", "properties": { "id": 19, "Settlement": "Kawara" }, "geometry": { "type": "Point", "coordinates": [ 7.347388768996032, 10.837691134526288 ] } },
+{ "type": "Feature", "properties": { "id": 20, "Settlement": "Labar" }, "geometry": { "type": "Point", "coordinates": [ 7.337432165210204, 10.911579615252693 ] } }
+]
+}
