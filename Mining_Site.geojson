@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "Mining_Site",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 1, "Mining site": "Site 1" }, "geometry": { "type": "Point", "coordinates": [ 7.480612476854861, 10.985945931745551 ] } },
+{ "type": "Feature", "properties": { "fid": 2, "Mining site": "Site 2" }, "geometry": { "type": "Point", "coordinates": [ 7.440614132225082, 10.96419925893713 ] } },
+{ "type": "Feature", "properties": { "fid": 3, "Mining site": "Site 3" }, "geometry": { "type": "Point", "coordinates": [ 7.427410795162822, 10.894687572638773 ] } },
+{ "type": "Feature", "properties": { "fid": 4, "Mining site": "Site 4" }, "geometry": { "type": "Point", "coordinates": [ 7.423527460732747, 10.787895875811692 ] } }
+]
+}
