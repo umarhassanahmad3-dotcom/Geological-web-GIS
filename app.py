@@ -13,12 +13,13 @@ from streamlit_folium import st_folium
 
 # 1. PAGE CONFIGURATION
 st.set_page_config(
-    page_title="Kaduna Geological Web GIS",
+    page_title="Kaduna Sheet 123 Geological Information Portal",
     page_icon="🌍",
     layout="wide",
 )
-st.title("Kaduna Sheet 123 Geological Web GIS")
-st.caption("Interactive Geological Database and Spatial Data Dashboard")
+st.title("Kaduna Sheet 123 Geological Information Portal")
+st.caption("An Interactive Web-Based Platform for Geological "
+    "Data Visualization and Spatial Exploration")
 
 
 # 2. PROJECT PATHS
